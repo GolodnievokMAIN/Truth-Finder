@@ -2,6 +2,10 @@
 
 Truth-Finder is a Chrome extension that empowers you to quickly verify the accuracy of online information. In today’s fast-paced digital world, distinguishing between reliable and misleading content is more important than ever. Truth-Finder automatically scans web pages for questionable claims using the Google Fact-Check Tools API and displays dynamic, in-page notifications to help you decide what to trust.
 
+> **Note:**  
+> While Truth-Finder leverages fact-check reviews from reputable sources, the reliability of the displayed results depends on the data available in the API. There might be occasional discrepancies, so use the tool as a helpful guide rather than an absolute verdict.
+
+
 ## Features
 
 - **Automatic Scanning:**  
