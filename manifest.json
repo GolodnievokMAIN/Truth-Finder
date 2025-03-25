@@ -4,7 +4,7 @@
     "manifest_version": 3,
     "action": {
       "default_popup": "truth-finder.html",
-      "default_icon": "images/truth-finder(128).png"
+      "default_icon": "images/truth-finder(128).jpeg"
     },
     "background": {
       "service_worker": "background.js"
