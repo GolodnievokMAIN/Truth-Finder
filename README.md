@@ -52,9 +52,9 @@ Truth-Finder is a Chrome extension that empowers you to quickly verify the accur
 
 ![Truth-Finder Notification Example](ReadMeImages/screenshotred.png)  
 *Example notification showing a red alert for questionable content.*
-![Truth-Finder Notification Example](ReadMeImages/screeshotgreen.png)  
+![Truth-Finder Notification Example](ReadMeImages/screenshotgreen.png)  
 *Example notification showing a green alert for verified content.*
-![Truth-Finder Notification Example](ReadMeImages/screenshotgrey.png)  
+![Truth-Finder Notification Example](ReadMeImages/screeshotgrey.png)  
 *Example notification showing a grey alert for unknown content.*
 ![Truth-Finder popup Example](ReadMeImages/screenshotmain.png)  
 *Example  showing a popup screen*
